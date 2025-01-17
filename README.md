@@ -29,7 +29,7 @@ bash script.sh
 ## Contact
 
 Email : contact4vmine@gmail.com.
-Discord UserNale: 0x4v.
+Discord UserName: 0x4v.
 
 ## Note
 
